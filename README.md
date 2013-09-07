@@ -1,4 +1,4 @@
-sublime-package-buildscript
+Sublime-package-buildscript
 ===========================
 
 Disclaimer
